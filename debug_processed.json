@@ -1,0 +1,90 @@
+{
+  "Full_Name": "Jane Doe",
+  "Designation": "Python Developer",
+  "Email": "jane.doe@example.com",
+  "Mobile": "+1-555-123-4567",
+  "Location": "Anytown, USA",
+  "Linkedin_url": "linkedin.com/in/janedoe",
+  "github_url": "github.com/janedoe",
+  "summary": "Results-oriented Python Developer with experience in designing, developing, and maintaining scalable applications using Flask and other modern technologies. Proven ability to collaborate effectively within teams, deliver high-quality code, and solve complex problems. Passionate about leveraging new technologies to build innovative products and exceed user expectations.",
+  "skills_data": {
+    "Languages": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ],
+    "Frameworks": [
+      "Flask",
+      "React",
+      "RESTful APIs"
+    ],
+    "Tools": [
+      "Git",
+      "Docker",
+      "AWS"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "location": "Anytown, USA",
+      "duration": "2023-01 to Present",
+      "responsibilities": [
+        "Developed and maintained RESTful APIs using Flask to support core application functionality.",
+        "Collaborated with a team of engineers to design and implement new features for a web-based platform.",
+        "Implemented CI/CD pipelines using Git and Jenkins to automate software deployment.",
+        "Utilized AWS services such as EC2 and S3 to deploy and manage applications in the cloud.",
+        "Wrote unit and integration tests to ensure code quality and reliability.",
+        "Participated in code reviews to maintain coding standards and best practices."
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Startup Co.",
+      "location": "Anytown, USA",
+      "duration": "2021-06 to 2022-12",
+      "responsibilities": [
+        "Assisted in the development of a web application using Python and Flask.",
+        "Contributed to the design and implementation of database schemas using PostgreSQL.",
+        "Wrote Python scripts to automate data processing tasks.",
+        "Participated in team meetings and contributed ideas to improve the development process."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "link": "example.com/portfolio",
+      "type": "Web Application",
+      "duration": "2022-02 to 2022-03",
+      "details": [
+        "Developed a personal portfolio website using React and Flask.",
+        "Implemented a RESTful API to manage blog posts and other content.",
+        "Deployed the website to a cloud platform using Docker and Kubernetes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Science",
+      "university": "University of Anytown",
+      "gpa": "3.8",
+      "duration": "2017-09 to 2021-05",
+      "details": [
+        "Relevant coursework: Data Structures and Algorithms, Database Management Systems, Software Engineering.",
+        "Dean's List: Fall 2019, Spring 2020, Fall 2020, Spring 2021"
+      ]
+    }
+  ],
+  "certifications": [
+    "AWS Certified Cloud Practitioner"
+  ],
+  "achievements": [
+    "Awarded 'Employee of the Month' at Tech Solutions Inc. (July 2023)"
+  ]
+}

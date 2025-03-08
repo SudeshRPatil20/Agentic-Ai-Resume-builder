@@ -1,0 +1,309 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(resume.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo))
+
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.s
+ty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.st
+y
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\colo
+r.cfg)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdft
+ex.def)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolo
+r.ltx))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.st
+y)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer
+\tikz.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pg
+f.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+rcs.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfutil-common.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfutil-latex.def)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfrcs.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revisio
+n.tex)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pg
+fcore.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx
+.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics
+.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\grap
+hics.cfg)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\p
+gfsys.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeys.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeyslibraryfiltered.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgf.cfg)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys-pdftex.def
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsys-common-pdf.def)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsyssoftpath.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer
+\pgfsysprotocol.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcore.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+h.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hutil.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hparser.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.basic.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.trigonometric.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.random.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.comparison.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.base.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.round.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.misc.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfunctions.integerarithmetics.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hcalc.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+hfloat.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint
+.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepoints.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathconstruct.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathusage.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorescopes.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoregraphicstate.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoretransformations.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorequick.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreobjects.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepathprocessing.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorearrows.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreshade.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreimage.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoreexternal.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorelayers.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcoretransparency.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorepatterns.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\
+pgfcorerdf.code.tex)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+moduleshapes.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+moduleplot.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
+\pgfcomp-version-0-65.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility
+\pgfcomp-version-1-18.sty))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+for.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgf
+keys.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gfkeys.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.
+sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmat
+h.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\p
+gffor.code.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz\tikz.code.tex
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\p
+gflibraryplothandlers.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgf
+modulematrix.code.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlay
+er/tikz/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref
+.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetke
+ys.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kv
+definekeys.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfes
+cape.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdft
+excmds.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwa
+rerr.sty)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.s
+ty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.
+sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\
+gettitlestring.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptio
+ns.sty)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\strin
+genc.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.d
+ef)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.de
+f) (C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.s
+ty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigi
+ntcalc.sty))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx
+.sty))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.
+def
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-lt
+x.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\re
+runfilecheck.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\u
+niquecounter.sty)))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fonta
+wesome.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.s
+ty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.
+sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fonta
+wesomesymbols-generic.tex)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fonta
+wesomesymbols-pdftex.tex))
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.st
+y)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e
+.sty)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backe
+nd-pdftex.def)
+No file resume.aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epst
+opdf-base.sty
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf
+-sys.cfg))
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
+(Font)              size <20.74> substituted on input line 82.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
+(Font)              size <20.74> substituted on input line 82.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+
+
+(C:\Users\Komal Patil\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufont
+awesometwo.fd)
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 81--97
+[][] [] 
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 102--103
+ [] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--153
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
+
+
+[1{C:/Users/Komal Patil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Us
+ers/Komal Patil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fonta
+wesometwo.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+
+
+[2] (resume.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.26pt have occurred.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information) <C:\Users\Komal Patil\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><C:/Users/Komal
+ Patil/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome
+.pfb><C:/Users/Komal Patil/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Users/Komal Patil/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Komal Patil/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Komal Patil/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Komal 
+Patil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+C:/Users/Komal Patil/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb>
+Output written on resume.pdf (2 pages, 115106 bytes).
+Transcript written on resume.log.
+pdflatex: major issue: So far, you have not checked for MiKTeX updates.
