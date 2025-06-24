@@ -47,8 +47,21 @@ An **AI-driven platform** that:
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./screenshot.png)
+<div align="center">
 
+<!-- Row 1 -->
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(699).png" width="30%" />
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(700).png" width="30%" />
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(701).png" width="30%" />
+
+<br/>
+
+<!-- Row 2 -->
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(702).png" width="30%" />
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(703).png" width="30%" />
+<img src="https://github.com/SudeshRPatil20/Agentic-Ai-Resume-builder/blob/main/Screenshot%20(704).png" width="30%" />
+
+</div>
 
 ---
 
